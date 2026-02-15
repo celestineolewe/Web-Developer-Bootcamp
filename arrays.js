@@ -1,0 +1,12 @@
+let barbell = []
+barbell.push(45)
+barbell.push(45)
+barbell.push(25)
+barbell.push(10)
+barbell.push(5)
+barbell.push(2.5)   
+console.log(barbell)
+barbell.pop()
+console.log(barbell)
+barbell.shift()
+console.log(barbell)
