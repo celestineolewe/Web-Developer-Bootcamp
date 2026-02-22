@@ -60,5 +60,3 @@ function makeBetweenFunc(min, max) {
 // }
 // function isBetween2(num) {
 //     return num >= 50 && num <= 10;
-
-// 
